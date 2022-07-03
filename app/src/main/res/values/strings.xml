@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HappyCoding</string>
+    <string name="add_string">test %1$d</string>
+</resources>
